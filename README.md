@@ -1,2 +1,2 @@
 # SLR_Reader
-Data extraction from published medical studies
+Experimentation with PDF to text converters in python. This is an initial step to extracting information from published literature such as medical studies. 
